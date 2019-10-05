@@ -1,2 +1,2 @@
 # Ejercicios-CC
-Repositoria para añadir, actualizar y alamacenar los ejercicios de la asignatura CC impartida en el Master Profesional de Ingeniería Informática de la UGR
+Repositorio para añadir, actualizar y almacenar los ejercicios de la asignatura CC impartida en el Master Profesional de Ingeniería Informática de la UGR.
